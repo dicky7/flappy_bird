@@ -1,16 +1,8 @@
 # flappy_bird
 
-A new Flutter project.
+We developed 🐥 Flappy Bird, a simple game built entirely from scratch using Dart and Flutter, without utilizing any third-party game components.
 
-## Getting Started
+![banner](https://user-images.githubusercontent.com/73842931/203234278-72dc4c28-0542-475e-8b0a-a64993b7f79b.png)
 
-This project is a starting point for a Flutter application.
+[Flutter](https://flutter.dev/) has enabled us to create a fun and lighthearted game that is incredibly simple to play. With just a tap on the screen, the bird will leap forward, and you'll need to avoid obstacles to keep it going. Your score will be calculated based on how long you manage to keep playing, and your best score will always be displayed on the screen.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
